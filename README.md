@@ -22,7 +22,7 @@ sudo apt-get install -y terraform
 7. Verify Terraform installation
 terraform --version
 # Screenshots for Terraform plan output
-![Snapshot](C:\Users\welcome\Documents\Terraform\terraform-bootcamp\applyoutput.PNG)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/applyoutput.PNG)
 # Terraform apply out
 ![Snapshot](applyoutput.png)
 # AWS Console pictures of the resources

@@ -22,20 +22,20 @@ sudo apt-get install -y terraform
 7. Verify Terraform installation
 terraform --version
 # Screenshots for Terraform plan output
-![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/applyoutput.PNG)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/planoutput.PNG)
 # Terraform apply out
-![Snapshot](applyoutput.png)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/applyoutput.PNG)
 # AWS Console pictures of the resources
-![Snapshot](autoscalinggroups.png)
-![Snapshot](elasticupaddress.png)
-![Snapshot](internetgateway.png)
-![Snapshot](networkacl.png)
-![Snapshot](routetable.png)
-![Snapshot](securitygroup.png)
-![Snapshot](serverrole.png)
-![Snapshot](subnets.png)
-![Snapshot](vpc.png)
-![Snapshot](webappinstances.png)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/autoscalinggroups.PNG)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/elasticupaddress.PNG)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/internetgateway.PNG)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/networkacl.PNG)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/routetable.PNG)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/securitygroup.PNG)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/serverrole.PNG)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/subnets.PNG)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/vpc.PNG)
+![Snapshot](https://github.com/slimfeet/terraform-bootcamp/blob/master/webappinstances.PNG)
 # Clean instruction
 1. Write terraform command to destroy the resources
 terraform destroy
